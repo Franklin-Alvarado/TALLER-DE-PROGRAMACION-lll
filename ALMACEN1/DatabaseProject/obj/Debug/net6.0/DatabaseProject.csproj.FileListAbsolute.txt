@@ -1,0 +1,28 @@
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\bin\Debug\net6.0\DatabaseProject.deps.json
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\bin\Debug\net6.0\DatabaseProject.runtimeconfig.json
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\bin\Debug\net6.0\DatabaseProject.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\bin\Debug\net6.0\DatabaseProject.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.AssemblyReference.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfoInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfo.cs
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.CoreCompileInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\refint\DatabaseProject.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\DatabaseProject.genruntimeconfig.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseProject\obj\Debug\net6.0\ref\DatabaseProject.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\bin\Debug\net6.0\DatabaseProject.deps.json
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\bin\Debug\net6.0\DatabaseProject.runtimeconfig.json
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\bin\Debug\net6.0\DatabaseProject.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\bin\Debug\net6.0\DatabaseProject.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.AssemblyReference.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfoInputs.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.AssemblyInfo.cs
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.csproj.CoreCompileInputs.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\refint\DatabaseProject.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\DatabaseProject.genruntimeconfig.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\DatabaseProject\obj\Debug\net6.0\ref\DatabaseProject.dll

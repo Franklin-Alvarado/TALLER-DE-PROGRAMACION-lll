@@ -1,0 +1,45 @@
+C:\Users\ASUS\source\repos\Library\Library\bin\Debug\net6.0\Library.exe
+C:\Users\ASUS\source\repos\Library\Library\bin\Debug\net6.0\Library.deps.json
+C:\Users\ASUS\source\repos\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+C:\Users\ASUS\source\repos\Library\Library\bin\Debug\net6.0\Library.dll
+C:\Users\ASUS\source\repos\Library\Library\bin\Debug\net6.0\Library.pdb
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.dll
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\refint\Library.dll
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.pdb
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Library\Library\obj\Debug\net6.0\ref\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\bin\Debug\net6.0\Library.exe
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\bin\Debug\net6.0\Library.deps.json
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\bin\Debug\net6.0\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\bin\Debug\net6.0\Library.pdb
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\refint\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.pdb
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\Library\Library\obj\Debug\net6.0\ref\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Library.exe
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Library.deps.json
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Library.runtimeconfig.json
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Library.pdb
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\refint\Library.dll
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.pdb
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Library.genruntimeconfig.cache
+D:\USIP\1-2023\TECNOLOGIA DE SOFTWARE\TRABAJOS\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\ref\Library.dll

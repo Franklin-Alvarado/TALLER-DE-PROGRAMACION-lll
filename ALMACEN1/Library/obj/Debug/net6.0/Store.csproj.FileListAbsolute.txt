@@ -1,0 +1,154 @@
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Store.exe
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Store.deps.json
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Store.runtimeconfig.json
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Store.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Store.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.AssemblyInfo.cs
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\refint\Store.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.genruntimeconfig.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\ref\Store.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Humanizer.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.CodeDom.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Text.Json.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\obj\Debug\net6.0\Store.csproj.CopyComplete
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Azure.Core.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Azure.Identity.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\DatabaseProject.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Interface.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Services.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Services.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\DatabaseProject.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Library\bin\Debug\net6.0\Interface.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Store.exe
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Store.deps.json
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Store.runtimeconfig.json
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Store.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Store.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Azure.Core.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Azure.Identity.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Humanizer.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.CodeDom.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Memory.Data.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Text.Json.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\DatabaseProject.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Interface.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Services.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Services.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\DatabaseProject.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\bin\Debug\net6.0\Interface.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.csproj.AssemblyReference.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.AssemblyInfoInputs.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.AssemblyInfo.cs
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.csproj.CoreCompileInputs.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.csproj.CopyComplete
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\refint\Store.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\Store.genruntimeconfig.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Library\obj\Debug\net6.0\ref\Store.dll

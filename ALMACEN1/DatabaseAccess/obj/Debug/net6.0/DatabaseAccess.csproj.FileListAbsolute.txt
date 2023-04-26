@@ -1,0 +1,14 @@
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\bin\Debug\net6.0\DatabaseAccess.deps.json
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\bin\Debug\net6.0\DatabaseAccess.runtimeconfig.json
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\bin\Debug\net6.0\DatabaseAccess.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\bin\Debug\net6.0\DatabaseAccess.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.csproj.AssemblyReference.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.AssemblyInfoInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.AssemblyInfo.cs
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.csproj.CoreCompileInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\refint\DatabaseAccess.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\DatabaseAccess.genruntimeconfig.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\DatabaseAccess\obj\Debug\net6.0\ref\DatabaseAccess.dll

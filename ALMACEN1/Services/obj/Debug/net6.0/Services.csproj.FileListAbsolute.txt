@@ -1,0 +1,34 @@
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\bin\Debug\net6.0\Services.deps.json
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\bin\Debug\net6.0\Services.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\bin\Debug\net6.0\Services.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\bin\Debug\net6.0\DatabaseProject.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\bin\Debug\net6.0\Interface.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\bin\Debug\net6.0\Interface.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\bin\Debug\net6.0\DatabaseProject.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\Services.pdb
+D:\Docuementos\Franklin\BIBLIOTECA\BIBLIOTECA\Services\obj\Debug\net6.0\ref\Services.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\bin\Debug\net6.0\Services.deps.json
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\bin\Debug\net6.0\Services.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\bin\Debug\net6.0\Services.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\bin\Debug\net6.0\DatabaseProject.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\bin\Debug\net6.0\Interface.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\bin\Debug\net6.0\Interface.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\bin\Debug\net6.0\DatabaseProject.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\refint\Services.dll
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\Services.pdb
+D:\USIP\1-2023\TALLER DE PROGRAMACION lll\Trabajo Final\ALMACEN1\Services\obj\Debug\net6.0\ref\Services.dll

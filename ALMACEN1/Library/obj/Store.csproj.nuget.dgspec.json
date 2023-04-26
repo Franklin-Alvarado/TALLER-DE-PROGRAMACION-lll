@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Library\\Store.csproj": {}
+  },
+  "projects": {
+    "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\DatabaseProject\\DatabaseProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\DatabaseProject\\DatabaseProject.csproj",
+        "projectName": "DatabaseProject",
+        "projectPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\DatabaseProject\\DatabaseProject.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\DatabaseProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Interface\\Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Interface\\Interface.csproj",
+        "projectName": "Interface",
+        "projectPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Interface\\Interface.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\DatabaseProject\\DatabaseProject.csproj": {
+                "projectPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\DatabaseProject\\DatabaseProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Library\\Store.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Library\\Store.csproj",
+        "projectName": "Store",
+        "projectPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Library\\Store.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Services\\Services.csproj": {
+                "projectPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\ALVARADO\\.nuget\\packages\\",
+        "outputPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ALVARADO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Interface\\Interface.csproj": {
+                "projectPath": "D:\\USIP\\1-2023\\TALLER DE PROGRAMACION lll\\Trabajo Final\\ALMACEN1\\Interface\\Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
