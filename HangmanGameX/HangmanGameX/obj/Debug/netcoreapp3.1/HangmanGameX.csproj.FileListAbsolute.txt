@@ -1,0 +1,13 @@
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\bin\Debug\netcoreapp3.1\HangmanGameX.exe
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\bin\Debug\netcoreapp3.1\HangmanGameX.deps.json
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\bin\Debug\netcoreapp3.1\HangmanGameX.runtimeconfig.json
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\bin\Debug\netcoreapp3.1\HangmanGameX.runtimeconfig.dev.json
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\bin\Debug\netcoreapp3.1\HangmanGameX.dll
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\bin\Debug\netcoreapp3.1\HangmanGameX.pdb
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\obj\Debug\netcoreapp3.1\HangmanGameX.csprojAssemblyReference.cache
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\obj\Debug\netcoreapp3.1\HangmanGameX.AssemblyInfoInputs.cache
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\obj\Debug\netcoreapp3.1\HangmanGameX.AssemblyInfo.cs
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\obj\Debug\netcoreapp3.1\HangmanGameX.csproj.CoreCompileInputs.cache
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\obj\Debug\netcoreapp3.1\HangmanGameX.dll
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\obj\Debug\netcoreapp3.1\HangmanGameX.pdb
+C:\Users\boris.dominguez\source\repos\HangmanGameX\HangmanGameX\obj\Debug\netcoreapp3.1\HangmanGameX.genruntimeconfig.cache
