@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\bin\Debug\net6.0\DadosProject.exe
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\bin\Debug\net6.0\DadosProject.deps.json
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\bin\Debug\net6.0\DadosProject.runtimeconfig.json
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\bin\Debug\net6.0\DadosProject.dll
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\bin\Debug\net6.0\DadosProject.pdb
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.dll
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\refint\DadosProject.dll
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.pdb
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\DadosProject.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\DadosProject\DadosProject\obj\Debug\net6.0\ref\DadosProject.dll
